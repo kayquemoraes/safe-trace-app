@@ -1,0 +1,13 @@
+button{
+    color: $cor-branca;
+    letter-spacing: 1px;
+    font-size: 17px;  
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 10px;
+    transition: 0.3s;
+    &:hover{
+      background-color: $cor-2;
+      cursor: pointer;
+    }
+  }

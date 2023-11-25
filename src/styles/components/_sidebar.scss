@@ -1,0 +1,21 @@
+@import '../base/variaveis.scss';
+
+.side-container{
+    display: flex;
+    flex-direction: column;
+    border: 10px solid transparent;
+    border-radius: 8px;
+    box-shadow: 0 0 0 8px $cor-2;
+    .side-topic{
+        margin-bottom: 20px;
+        h2{
+            text-align: center;
+            color: $cor-2;
+            margin-bottom: 5px;
+        }
+        p{
+            color: $cor-fonte;
+            text-align: center;
+        }
+    }
+}

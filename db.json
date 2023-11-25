@@ -1,0 +1,10 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin10",
+      "email": "admin@domain.com.br"
+    }
+  ]
+}

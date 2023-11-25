@@ -1,0 +1,11 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "ADMIN",
+      "password": "ADMIN123",
+      "email": "admin@admin.com.br",
+      "photo": "https://png.pngtree.com/png-clipart/20190924/original/pngtree-user-vector-avatar-png-image_4830521.jpg"
+    }
+  ]
+}
